@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "tareas": [
     {
       "id": 1,
-      "title": "hello"
+      "nombre": "hello",
+      "descripcion": "algo",
+      "estado": "pendiente",
+      "fecha": "04/02/2026"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "matias"
   }
 }
