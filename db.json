@@ -2,9 +2,37 @@
   "tareas": [
     {
       "id": 1,
-      "nombre": "hello",
-      "descripcion": "algo",
+      "nombre": "Estudiar JavaScript",
+      "descripcion": "Repasar arrays, objetos y funciones",
       "estado": "pendiente",
+      "fecha": "06/02/2026"
+    },
+    {
+      "id": 2,
+      "nombre": "Hacer ejercicio",
+      "descripcion": "Entrenamiento en casa 45 minutos",
+      "estado": "completada",
+      "fecha": "05/02/2026"
+    },
+    {
+      "id": 3,
+      "nombre": "Armar drone",
+      "descripcion": "Soldar ESC y revisar Betaflight",
+      "estado": "pendiente",
+      "fecha": "07/02/2026"
+    },
+    {
+      "id": 4,
+      "nombre": "Estudiar para examen",
+      "descripcion": "Matemática nivel medio",
+      "estado": "pendiente",
+      "fecha": "08/02/2026"
+    },
+    {
+      "id": 5,
+      "nombre": "Ordenar el taller",
+      "descripcion": "Limpiar herramientas y cables",
+      "estado": "completada",
       "fecha": "04/02/2026"
     }
   ],
